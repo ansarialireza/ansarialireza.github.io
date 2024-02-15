@@ -28,8 +28,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/thealibigdeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thealibigdeli" height="25" width="35" /></a>
 <a href="https://instagram.com/thealibigdeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thealibigdeli" height="25" width="35" /></a>
-<a href="https://www.youtube.com/user/TheAlibigdeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thealibigdeli" height="25" width="35" /></a>
-<a href="https://www.aparat.com/allan" target="blank"><img align="center" src="https://seeklogo.com/images/A/aparat-logo-E058915B14-seeklogo.com.png" alt="thealibigdeli" height="25" width="25" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
