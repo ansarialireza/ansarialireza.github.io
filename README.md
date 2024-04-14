@@ -24,10 +24,8 @@
 - ⚡ Fun fact **I view the world with a distinctive perspective, harmonizing technology and creativity in my daily experiences.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ansarialireza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thealibigdeli" height="25" width="35" /></a>
-<a href="https://www.instagram.com/alireza_anssari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alireza_anssari" height="25" width="35" /></a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/ansarialireza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarialireza" height="25" width="35" /></a> <a href="https://www.instagram.com/alireza_anssari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alireza_anssari" height="25" width="35" /></a> <a href="https://stackoverflow.com/users/12769444/ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="ansari" height="30" width="40" /></a></p> 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/> 
