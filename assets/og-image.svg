@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="ogBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C10" />
+      <stop offset="60%" stop-color="#0A0D10" />
+      <stop offset="100%" stop-color="#10151A" />
+    </linearGradient>
+    <pattern id="ogGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2833" stroke-width="0.8" stroke-opacity="0.6" />
+    </pattern>
+    <radialGradient id="ogGlow" cx="85%" cy="20%" r="55%">
+      <stop offset="0%" stop-color="#CCFF00" stop-opacity="0.16" />
+      <stop offset="60%" stop-color="#CCFF00" stop-opacity="0.02" />
+      <stop offset="100%" stop-color="#0A0D10" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#ogBg)" />
+  <rect width="1200" height="630" fill="url(#ogGrid)" />
+  <rect width="1200" height="630" fill="url(#ogGlow)" />
+  <rect x="0" y="0" width="1200" height="4" fill="#CCFF00" />
+
+  <g transform="translate(80, 110)">
+    <!-- Brand / Tag -->
+    <rect x="0" y="0" width="230" height="34" rx="6" fill="#151B21" stroke="#28313A" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="4.5" fill="#CCFF00" />
+    <text x="32" y="22" font-family="'SF Mono', Consolas, Monaco, monospace" font-size="13" font-weight="600" fill="#CCFF00" letter-spacing="1.5">FULL-STACK ENGINEER</text>
+
+    <!-- Name -->
+    <text x="0" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="64" font-weight="800" fill="#F4F7FA" letter-spacing="-1.5">Alireza Ansari</text>
+
+    <!-- Subtitle / Positioning -->
+    <text x="0" y="175" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="500" fill="#A1AAB4">
+      Custom AI Assistants Powered by Your Business Data
+    </text>
+
+    <text x="0" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="400" fill="#6F7A85">
+      End-to-end web applications, reliable RAG systems, and robust backend architectures.
+    </text>
+
+    <!-- Core Domains -->
+    <g transform="translate(0, 310)">
+      <rect x="0" y="0" width="220" height="50" rx="8" fill="#10151A" stroke="#28313A" stroke-width="1" />
+      <text x="20" y="31" font-family="'SF Mono', monospace" font-size="13" fill="#F4F7FA"><tspan fill="#CCFF00">01 /</tspan> Full-Stack Web</text>
+
+      <rect x="240" y="0" width="230" height="50" rx="8" fill="#10151A" stroke="#28313A" stroke-width="1" />
+      <text x="260" y="31" font-family="'SF Mono', monospace" font-size="13" fill="#F4F7FA"><tspan fill="#CCFF00">02 /</tspan> RAG Infrastructure</text>
+
+      <rect x="490" y="0" width="250" height="50" rx="8" fill="#10151A" stroke="#28313A" stroke-width="1" />
+      <text x="510" y="31" font-family="'SF Mono', monospace" font-size="13" fill="#F4F7FA"><tspan fill="#CCFF00">03 /</tspan> Architecture &amp; APIs</text>
+    </g>
+  </g>
+
+  <!-- Branded Graphic Symbol -->
+  <g transform="translate(860, 160)">
+    <rect x="0" y="0" width="240" height="240" rx="18" fill="#10151A" stroke="#28313A" stroke-width="1.5" />
+    <circle cx="120" cy="120" r="45" fill="none" stroke="#CCFF00" stroke-width="2" stroke-dasharray="4,4" />
+    <circle cx="120" cy="120" r="14" fill="#CCFF00" />
+    <circle cx="65" cy="65" r="5" fill="#4B5563" />
+    <circle cx="175" cy="65" r="5" fill="#4B5563" />
+    <circle cx="65" cy="175" r="5" fill="#4B5563" />
+    <circle cx="175" cy="175" r="5" fill="#4B5563" />
+    <line x1="65" y1="65" x2="120" y2="120" stroke="#28313A" stroke-width="1.5" />
+    <line x1="175" y1="65" x2="120" y2="120" stroke="#CCFF00" stroke-width="1.5" />
+    <line x1="65" y1="175" x2="120" y2="120" stroke="#CCFF00" stroke-width="1.5" />
+    <line x1="175" y1="175" x2="120" y2="120" stroke="#28313A" stroke-width="1.5" />
+    <text x="120" y="210" font-family="'SF Mono', monospace" font-size="11" fill="#8B949E" text-anchor="middle">WEIRWISE ECOSYSTEM</text>
+  </g>
+</svg>
