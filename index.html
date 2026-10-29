@@ -262,7 +262,7 @@
           </p>
         </div>
 
-        <!-- Project 1: Weirwise Core -->
+        <!-- Project 1: Weirwise RAG Core -->
         <article class="project-card">
           <div class="project-card-header">
             <div class="project-meta">
@@ -272,7 +272,7 @@
             <span class="project-badge">ACTIVE DEVELOPMENT</span>
           </div>
 
-          <h3 class="project-title">Weirwise Core</h3>
+          <h3 class="project-title">Weirwise RAG Core</h3>
           <p class="project-tagline">// Lightweight, Modular Open-Source RAG Infrastructure</p>
           
           <p class="project-desc">
@@ -284,13 +284,13 @@
               <span>▹</span> Strict multi-tenant data isolation across knowledge bases, assistants, and queries.
             </div>
             <div class="feature-point">
-              <span>▹</span> Native PostgreSQL + pgvector retrieval without heavy external vector services.
+              <span>▹</span> Native PostgreSQL + pgvector retrieval using Jina AI <code>jina-embeddings-v4</code> (1536 dims).
             </div>
             <div class="feature-point">
-              <span>▹</span> Asynchronous document ingestion queue for PDF, Markdown, and TXT files.
+              <span>▹</span> Asynchronous document ingestion queue for PDF, DOCX, Markdown, and TXT files.
             </div>
             <div class="feature-point">
-              <span>▹</span> Dedicated, typed Python SDK (<code style="color:var(--accent-lime)">weirwise</code>) with complete integration tests.
+              <span>▹</span> Verified test coverage with automated tenant isolation, adversarial input, and regression gates.
             </div>
           </div>
 
@@ -299,14 +299,14 @@
             <span class="tech-pill">FastAPI</span>
             <span class="tech-pill">PostgreSQL</span>
             <span class="tech-pill">pgvector</span>
+            <span class="tech-pill">Jina AI</span>
             <span class="tech-pill">Alembic</span>
             <span class="tech-pill">Docker</span>
             <span class="tech-pill">pytest</span>
-            <span class="tech-pill">MIT License</span>
           </div>
 
           <div class="project-links">
-            <a href="https://github.com/ansarialireza/weirwise-core" class="project-link" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/ansarialireza/weirwise-rag-core" class="project-link" target="_blank" rel="noopener noreferrer">
               View Repository on GitHub
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
             </a>
@@ -317,50 +317,49 @@
           </div>
         </article>
 
-        <!-- Project 2: Personal AI Assistant Platform -->
+        <!-- Project 2: Weirwise RAG Platform -->
         <article class="project-card">
           <div class="project-card-header">
             <div class="project-meta">
               <span class="project-badge active">FULL-STACK PLATFORM</span>
-              <span class="project-badge">DJANGO · NEXT.JS</span>
+              <span class="project-badge">FASTAPI · NEXT.JS 14</span>
             </div>
             <span class="project-badge">ACTIVE DEVELOPMENT</span>
           </div>
 
-          <h3 class="project-title">Personal AI Assistant Platform</h3>
-          <p class="project-tagline">// End-to-End Multi-Channel Assistant Management</p>
+          <h3 class="project-title">Weirwise RAG Platform</h3>
+          <p class="project-tagline">// Enterprise AI Assistant Studio &amp; Multi-Tenant Knowledge Hub</p>
           
           <p class="project-desc">
-            A production-ready product platform for creating privately owned AI assistants, indexing user knowledge via RAG Core, testing conversations in a live playground, publishing isolated Web Component chat widgets, and integrating Telegram bots with encrypted-at-rest token security.
+            The full-stack application and product layer for Weirwise, enabling teams to organize knowledge sources, configure domain-specific AI assistants, and converse with grounded citation verification across modern web interfaces.
           </p>
 
           <div class="project-features">
             <div class="feature-point">
-              <span>▹</span> Django 5.2 / DRF REST API with JWT authentication and owner-scoped permissions.
+              <span>▹</span> Complete Assistant Studio with live playground, score threshold tuning, and model selection.
             </div>
             <div class="feature-point">
-              <span>▹</span> Asynchronous website crawler with robots policy checking and sitemap ingestion.
+              <span>▹</span> Knowledge grounding pipeline with multi-file upload, terminal status polling, and citations.
             </div>
             <div class="feature-point">
-              <span>▹</span> Standalone zero-style-bleed web widget built using Shadow DOM.
+              <span>▹</span> Responsive Next.js 14 web client featuring workspace onboarding, project routing, and auth guards.
             </div>
             <div class="feature-point">
-              <span>▹</span> Operations Control Center with bounded non-billable service diagnostics.
+              <span>▹</span> Integrated with Weirwise Core API Gateway for seamless embedding indexing and semantic retrieval.
             </div>
           </div>
 
           <div class="project-tech-pills">
-            <span class="tech-pill">Django 5.2</span>
-            <span class="tech-pill">Django REST Framework</span>
-            <span class="tech-pill">Next.js</span>
+            <span class="tech-pill">Next.js 14</span>
             <span class="tech-pill">TypeScript</span>
-            <span class="tech-pill">PostgreSQL</span>
-            <span class="tech-pill">Web Components (Shadow DOM)</span>
-            <span class="tech-pill">Docker Compose</span>
+            <span class="tech-pill">Tailwind CSS</span>
+            <span class="tech-pill">FastAPI</span>
+            <span class="tech-pill">SQLite / PostgreSQL</span>
+            <span class="tech-pill">Puppeteer</span>
           </div>
 
           <div class="project-links">
-            <a href="https://github.com/ansarialireza/personal-ai-assistant" class="project-link" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/ansarialireza/weirwise-rag-platform" class="project-link" target="_blank" rel="noopener noreferrer">
               View Repository on GitHub
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
             </a>

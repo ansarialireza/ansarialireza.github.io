@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1060 200" role="img" aria-labelledby="title description">
+  <!-- Weirwise Horizontal Lockup - Derived from Concept 06 (Shared Structure) -->
+  <!-- Status: OFFICIALLY APPROVED -->
+  <title id="title">Weirwise - Horizontal Lockup</title>
+  <desc id="description">Weirwise Concept 06 W symbol paired with clean geometric wordmark.</desc>
+
+  <!-- Symbol: Concept 06 (Shared Structure) - Positioned at X: 40..346.25, Y: 39.6..160.4 (Height 120.75, Vertically Centered at Y=100) -->
+  <g transform="translate(29.5, 23.88)">
+    <g fill="#CCFF00">
+      <path id="shared-path" d="M 10.5,15.75 H 135.25 C 138,15.75 139.5,17 141.75,20.5 L 198,111.75 Q 200.5,115.75 203.5,111.75 L 229.5,70 Q 231.5,67 234.5,67 H 282.5 Q 285.75,67 283.75,70.75 L 247.75,130 Q 244,136.5 237.25,136.5 H 162.75 Q 155.25,136.5 151.75,130.25 L 105,53.5 Q 103.75,51.5 101.25,51.5 H 36.75 Q 31.75,51.5 28.75,46.5 Z"/>
+      <path id="upper-path" d="M 316.75,15.75 H 216.5 Q 211,15.75 207.5,21.25 L 184,59.25 Q 182.75,61.25 184,63.25 L 200,88.75 L 222.5,53.5 Q 223.75,51.5 226.5,51.5 H 292.5 Q 297.25,51.5 300,46.75 Z"/>
+      <path id="lower-path" d="M 46.5,67 H 94.25 Q 98.75,67 101,70.75 L 125.5,110.75 Q 128.25,114.75 125.5,119.5 L 117.5,132.25 Q 115,136.5 110,136.5 H 90.5 Q 84.25,136.5 80.75,130.75 L 44.25,70.5 Q 42,67 46.5,67 Z"/>
+    </g>
+  </g>
+
+  <!-- Wordmark: "Weirwise" (Pure Geometric Vector Contours - Zero External Font Dependencies) -->
+  <!-- Positioned at X: 405..998, Y: 47..153 (Height 106, Vertically Centered at Y=100) -->
+  <g fill="#F5F6F2" transform="translate(405, 47)">
+    <!-- W (Capital) -->
+    <path d="M 0 0 L 19 0 L 37 72 L 55 0 L 73 0 L 91 72 L 109 0 L 128 0 L 100 104 L 81 104 L 64 36 L 47 104 L 28 104 Z" />
+
+    <!-- e -->
+    <path d="M 212 54 C 212 24 194 24 177 24 C 159 24 142 38 142 65 C 142 92 158 106 179 106 C 195 106 207 98 211 86 L 194 82 C 191 89 185 93 178 93 C 166 93 159 83 159 68 L 212 68 C 212 68 212 58 212 54 Z M 159 55 C 160 42 168 36 177 36 C 186 36 193 42 194 55 Z" />
+
+    <!-- i -->
+    <circle cx="234" cy="11" r="8" />
+    <path d="M 226 27 L 242 27 L 242 104 L 226 104 Z" />
+
+    <!-- r -->
+    <path d="M 256 27 L 272 27 L 272 43 C 276 31 285 26 296 26 L 296 42 C 282 42 272 50 272 66 L 272 104 L 256 104 Z" />
+
+    <!-- w -->
+    <path d="M 310 27 L 325 27 L 338 80 L 352 27 L 366 27 L 380 80 L 393 27 L 408 27 L 387 104 L 373 104 L 359 50 L 345 104 L 331 104 Z" />
+
+    <!-- i -->
+    <circle cx="430" cy="11" r="8" />
+    <path d="M 422 27 L 438 27 L 438 104 L 422 104 Z" />
+
+    <!-- s -->
+    <path d="M 507 44 C 504 33 493 24 482 24 C 469 24 460 31 460 42 C 460 54 470 58 483 62 C 498 67 509 72 509 86 C 509 98 498 106 482 106 C 467 106 456 96 454 83 L 469 80 C 471 89 476 94 483 94 C 492 94 497 89 497 83 C 497 74 489 70 476 66 C 463 61 452 55 452 42 C 452 29 464 21 480 21 C 495 21 504 29 506 39 Z" />
+
+    <!-- e -->
+    <path d="M 593 54 C 593 24 575 24 558 24 C 540 24 523 38 523 65 C 523 92 539 106 560 106 C 576 106 588 98 592 86 L 575 82 C 572 89 566 93 559 93 C 547 93 540 83 540 68 L 593 68 C 593 68 593 58 593 54 Z M 540 55 C 541 42 549 36 558 36 C 567 36 574 42 575 55 Z" />
+  </g>
+</svg>
